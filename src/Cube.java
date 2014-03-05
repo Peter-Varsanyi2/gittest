@@ -18,7 +18,7 @@ public class Cube implements Shape {
 	@Override
 	public boolean Valid() {
 		System.out.println("A: "+ a + ", B: "+b);
-		return false;
+		return true;
 	}
 
 	@Override
