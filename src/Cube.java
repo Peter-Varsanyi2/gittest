@@ -17,7 +17,7 @@ public class Cube implements Shape {
 
 	@Override
 	public boolean Valid() {
-		return true;
+		return false;
 	}
 
 	@Override
